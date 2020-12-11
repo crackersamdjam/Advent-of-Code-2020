@@ -2,3 +2,8 @@ in
 out
 err
 fullerr
+
+# ignore executables
+*
+!*.*
+
