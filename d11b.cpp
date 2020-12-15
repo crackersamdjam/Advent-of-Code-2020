@@ -30,7 +30,7 @@ int main(){
 		memcpy(a[i], s, sizeof s);
 		memcpy(b[i], s, sizeof s);
 	}
-	n = (int)strlen(a[1]+1);\
+	n = (int)strlen(a[1]+1);
 	do{
 		swap(a, b);
 		for(int i = 1; i <= n; i++){
@@ -55,7 +55,6 @@ int main(){
 					a[i][j] = '#';
 			}
 		}
-		// out();
 	} while(!equal());
 
 	int ans = 0;
