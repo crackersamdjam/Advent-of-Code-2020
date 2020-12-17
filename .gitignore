@@ -2,6 +2,7 @@ in
 out
 err
 fullerr
+tmp
 
 # ignore executables
 *
