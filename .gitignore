@@ -1,3 +1,7 @@
+# ignore executables
+*
+!*.*
+
 in
 out
 err
@@ -5,8 +9,4 @@ fullerr
 tmp
 test.cpp
 test.py
-
-# ignore executables
-*
-!*.*
 
