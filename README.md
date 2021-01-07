@@ -14,7 +14,7 @@ My solutions to Advent of Code 2020 in Python 3 and C++ 17.
 
 All problems solved! 🎉
 
-### Final AOC 2020 World Map
+### Completed AOC 2020 World Map
 
 ![Animated GIF](media/world_map.gif)
 
