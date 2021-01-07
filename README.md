@@ -1,7 +1,6 @@
 ## Advent of Code 2020
 
-Solutions in Python 3 and C++ 17.
-
+My solutions to Advent of Code 2020 in Python 3 and C++ 17.
 
 ### My Score
 
@@ -13,6 +12,13 @@ Solutions in Python 3 and C++ 17.
 | ----- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | Score | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** | ** |
 
+All problems solved! 🎉
+
 ### Final AOC 2020 World Map
 
 ![Animated GIF](media/world_map.gif)
+
+### Final Reflections
+
+Solving AOC 2020 problems has been a ton of fun and I am now much more familiar with Python 3. AOC is a great way to practise problem-solving and learn a new language. This has been the first year I've solved all the challenges, so I am very pleased with myself. I may write some editorial blogs on my favourite AOC 2020 problems. See you next year! 🎊
+
